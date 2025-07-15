@@ -1,0 +1,19 @@
+# Quick Upload Commands
+# Copy and paste these commands one by one
+
+# First, create repository on GitHub:
+# https://github.com/new
+# Repository name: yoonjae26
+# Set to Public
+# Don't add README
+
+# Then run these commands:
+git remote add origin https://github.com/yoonjae26/yoonjae26.git
+git push -u origin main
+
+# If remote already exists, use:
+# git remote set-url origin https://github.com/yoonjae26/yoonjae26.git
+# git push -u origin main
+
+# After upload, your profile will be live at:
+# https://github.com/yoonjae26

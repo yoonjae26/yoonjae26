@@ -253,21 +253,21 @@ const NEURAL_OBJECTIVES = {
 
 ```mermaid
 graph TD
-    A[⚡ QUANTUM AI RESEARCH ⚡] --> B[◢◤ NEURAL VOICE TECH ◥◣]
-    A --> C[◢◤ CYBERNETIC VISION ◥◣]
-    A --> D[◢◤ QUANTUM NLP SYSTEMS ◥◣]
-    B --> E[⚡ REAL-TIME PROCESSING ⚡]
-    C --> F[⚡ MULTI-MODAL ANALYSIS ⚡]
-    D --> G[⚡ LARGE LANGUAGE MODELS ⚡]
-    E --> H[◢◤ PRODUCTION SYSTEMS ◥◣]
+    A[QUANTUM AI RESEARCH] --> B[NEURAL VOICE TECH]
+    A --> C[CYBERNETIC VISION]
+    A --> D[QUANTUM NLP SYSTEMS]
+    B --> E[REAL-TIME PROCESSING]
+    C --> F[MULTI-MODAL ANALYSIS]
+    D --> G[LARGE LANGUAGE MODELS]
+    E --> H[PRODUCTION SYSTEMS]
     F --> H
     G --> H
     
-    style A fill:#fc00ff,stroke:#00f5ff,stroke-width:3px,color:#000000
-    style B fill:#00f5ff,stroke:#fc00ff,stroke-width:3px,color:#000000
-    style C fill:#fffc00,stroke:#fc00ff,stroke-width:3px,color:#000000
+    style A fill:#4a90e2,stroke:#00f5ff,stroke-width:3px,color:#ffffff
+    style B fill:#00f5ff,stroke:#4a90e2,stroke-width:3px,color:#000000
+    style C fill:#fffc00,stroke:#4a90e2,stroke-width:3px,color:#000000
     style D fill:#00f5ff,stroke:#fffc00,stroke-width:3px,color:#000000
-    style H fill:#fc00ff,stroke:#00f5ff,stroke-width:3px,color:#000000
+    style H fill:#7b68ee,stroke:#00f5ff,stroke-width:3px,color:#ffffff
 ```
 
 <div align="center">

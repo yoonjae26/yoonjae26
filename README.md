@@ -220,7 +220,7 @@ Find it, then [open this issue](https://github.com/yoonjae26/yoonjae26/issues/ne
 <sub>**05 / RECENT ACTIVITY**</sub>
 
 <!-- LATEST_POSTS:START -->
-*Recent commits will appear here once the workflow runs for the first time.*
+- 📝  **pushed** &nbsp;·&nbsp; [yoonjae26](https://github.com/yoonjae26/yoonjae26) &nbsp;·&nbsp; <sub>3m ago</sub>
 <!-- LATEST_POSTS:END -->
 
 <br>

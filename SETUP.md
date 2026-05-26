@@ -1,79 +1,118 @@
-# Setup Guide — README v2
+# Setup Guide — README v3 (Japanese Minimal)
 
-## 📂 Cấu trúc file
+## 📂 Final structure
 
-Sau khi xong, repo `yoonjae26/yoonjae26` của bạn sẽ trông như sau:
+After setup, `yoonjae26/yoonjae26` repo will look like this:
 
 ```
 yoonjae26/
 ├── README.md
 ├── assets/
-│   ├── banner.svg          ← hero banner
-│   └── now.svg              ← "what's on the bench" card
+│   ├── banner.svg        ← hero (name + Go2 technical drawing + hanko)
+│   ├── dashboard.svg     ← "Now" status card with 4 columns
+│   └── manifesto.svg     ← centered quote banner
 └── .github/
     ├── scripts/
-    │   └── update-readme.js ← script cập nhật dynamic content
+    │   └── update-readme.js
     └── workflows/
-        └── update-readme.yml ← workflow chạy mỗi 24h
+        └── update-readme.yml
 ```
 
-## 🚀 Cách deploy (3 bước)
+## 🚀 Three steps to deploy
 
-### 1. Upload files
+### Step 1 — Upload files
 
-Trong repo `yoonjae26/yoonjae26`:
-
-| File trong package này | → | Đường dẫn trong repo |
+| File in this package | → | Path in repo |
 |---|---|---|
 | `README.md` | → | `README.md` |
 | `banner.svg` | → | `assets/banner.svg` |
-| `now.svg` | → | `assets/now.svg` |
+| `dashboard.svg` | → | `assets/dashboard.svg` |
+| `manifesto.svg` | → | `assets/manifesto.svg` |
 | `update-readme.yml` | → | `.github/workflows/update-readme.yml` |
 | `update-readme.js` | → | `.github/scripts/update-readme.js` |
 
-### 2. Bật Discussions
+### Step 2 — Enable Discussions
 
-1. Vào repo → **Settings** → scroll xuống **Features** → tick **Discussions**
-2. Trong tab Discussions, tạo 4 categories:
-   - **Guestbook** (announcement type)
-   - **Ideas** (open-ended discussion)
+1. Repo → **Settings** → **Features** → tick **Discussions**
+2. Discussions tab → create 4 categories:
+   - **Guestbook** (announcement)
+   - **Ideas** (open-ended)
    - **Q&A** (question/answer)
-   - **Hall of the Curious** (announcement) ← cho easter egg
+   - **Hall of the Curious** (announcement) — for the easter egg
 
-### 3. Chạy workflow lần đầu
+### Step 3 — First workflow run
 
-1. Vào tab **Actions** trong repo
-2. Chọn workflow "Update README"
-3. Click **Run workflow** → chờ ~30 giây
-4. Section "The Archive" sẽ được điền tự động với 5 hoạt động gần nhất
+1. Repo → **Actions** tab → "Update README" workflow
+2. **Run workflow** → wait ~30s
+3. The "Archive" section auto-fills with your 5 most recent activities
 
-Sau bước này, mỗi ngày 00:00 UTC workflow sẽ tự refresh.
+After this, the workflow runs daily at 00:00 UTC.
 
-## 🎨 Tuỳ chỉnh `now.svg`
+---
 
-File `assets/now.svg` là phần "What's on the bench this week". Để cập nhật:
+## ✏️ Keeping content fresh
 
-1. Mở `assets/now.svg`
-2. Tìm 3 cột: `READING` / `BUILDING` / `LISTENING`
-3. Sửa 2 dòng text trong mỗi cột (line 1 + line 2 italic)
-4. Commit — README sẽ tự cập nhật
+### Update the dashboard weekly
 
-Có thể bạn muốn update file này mỗi tuần để giữ profile "alive".
+Open `assets/dashboard.svg` and edit:
 
-## 🥚 Easter egg
+**Column 1 — Now building:**
+- Find the two `<text class="serif" font-style="italic">` near `y="95"` and `y="120"`
+- Change project name (2 lines)
+- Update progress bar: change `x2="100"` (current progress in % out of 240)
+- Update text: `42% — PHASE 2 / 5`
 
-Trong section "🎮 Find the easter egg", hint nói "Count carefully" trong workshop. 
+**Column 2 — Reading:**
+- Find `Reinforcement` / `Learning` → replace with current book title
+- Update author and chapter
 
-Đáp án ẩn trong project № 1 (Go2): câu **"───► 12 joints"** trong sơ đồ ASCII. Số **12** là key — quadruped Go2 thật sự có 12 joints (3 mỗi chân × 4 chân).
+**Column 3 — Metrics:**
+- Update `3.2k`, `14`, `3` numbers when they change
 
-Người tìm ra sẽ open issue → bạn có thể tự tay welcome họ vào "Hall of the Curious" để tăng engagement.
+**Column 4 — Availability:**
+- Change the green dot to grey if not available:
+  - `fill="#22a06b"` → `fill="#999"`
+  - Remove the `<animate>` tags
+
+Tip: bookmark `assets/dashboard.svg` on GitHub's web editor and update it every Sunday in 2 minutes.
+
+### Update manifesto
+
+`assets/manifesto.svg` has the quote on two lines around `y="135"` and `y="178"`. Edit, commit.
+
+---
+
+## 🥚 The easter egg
+
+In "Say hello" → "The hidden one", the hint says *"Look at the banner. Read the technical drawing carefully."*
+
+**Answer:** the number `12` (joints) is the key, labeled directly on the Go2 drawing in the banner.
+
+When someone finds it and opens the issue, manually add them to the "Hall of the Curious" Discussions category. This builds engagement.
+
+---
+
+## 🎨 Design notes
+
+The aesthetic borrows from Japanese editorial design:
+- **Paper colour** `#f7f5f0` (warm off-white)
+- **Ink** `#1a1a1a` (near-black, not pure black)
+- **Single accent** `#c8202e` (vermillion, used only in the hanko stamp and opening quote — sparingly)
+- **Typography pairing:** Cormorant Garamond (serif italic) for emotion, Inter (sans) for body, JetBrains Mono (mono) for metadata
+- **Fallbacks:** all fonts fall back to system defaults if not loaded (Times, Helvetica, Courier)
+
+Whitespace is the loudest element. Don't fill it.
+
+---
 
 ## 🔧 Troubleshooting
 
-**Banner không hiển thị?** → Kiểm tra `assets/banner.svg` đã được commit chưa. SVG load từ relative path (`./assets/banner.svg`), không phụ thuộc CDN nào nên không bao giờ 404.
+**SVG not showing?** → Path is `./assets/banner.svg` (relative). If you put files at a different path, edit the `<img src="...">` in README.
 
-**Workflow fail?** → Vào Actions → click run failed → đọc log. Thường do permissions: vào Settings → Actions → General → Workflow permissions → tick "Read and write".
+**Action permission error?** → Settings → Actions → General → Workflow permissions → "Read and write".
 
-**Muốn workflow chạy thường xuyên hơn?** → Sửa cron trong `.github/workflows/update-readme.yml`:
-- `'0 */6 * * *'` = mỗi 6 giờ
-- `'0 0,12 * * *'` = 2 lần/ngày
+**Want to change cron schedule?** → `.github/workflows/update-readme.yml`:
+- `'0 */6 * * *'` = every 6 hours
+- `'0 0 * * 1'` = every Monday at midnight
+
+**Light mode only?** → GitHub renders SVG with its set colors regardless of viewer's theme. The off-white background works on both light and dark mode (though it'll look like a warm card on dark mode — still good).

@@ -1,191 +1,260 @@
-<div align="center">
+<!--
+  ─────────────────────────────────────────────────────────────────
+  Profile · Yoon Jae · v3
+  Japanese-minimal aesthetic · Editor: hand-crafted
+  ─────────────────────────────────────────────────────────────────
+-->
 
-# Hi, I'm Yoon Jae 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="Yoon Jae — Robotics &amp; AI Engineer" width="100%" />
+</p>
 
-### AI Engineer · Robotics · Computer Vision
+<br>
 
-*Building intelligent systems where machines learn to see, speak, and move.*
+<p align="center">
+  <a href="#now">Now</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#work">Work</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#stack">Stack</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#say-hello">Say hello</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#archive">Archive</a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logo=githubpages&logoColor=white)](https://yoonjae26.github.io)
-[![Email](https://img.shields.io/badge/Email-4a5568?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyenhoanglinh260801@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2d3748?style=flat-square&logo=github&logoColor=white)](https://github.com/yoonjae26)
-[![Visitors](https://komarev.com/ghpvc/?username=yoonjae26&label=Visitors&color=4a5568&style=flat-square)](https://github.com/yoonjae26)
+<br>
+<br>
+
+## Now
+
+<p align="center">
+  <img src="./assets/dashboard.svg" alt="Currently working — status dashboard" width="100%" />
+</p>
+
+<br>
+<br>
 
 ---
 
----
+<br>
 
-## About Me
+## Work
 
-```yaml
-name:       Yoon Jae
-role:       AI Engineer & Robotics Researcher
-location:   Jeju, South Korea
-education:  Jeju Halla University
-focus:      Quadruped robotics · Voice synthesis · Computer vision
-learning:   Reinforcement learning for legged locomotion
-```
-
-I work at the intersection of **AI** and **physical systems** — teaching neural networks to perceive the world and robots to navigate it. Currently focused on getting a Unitree Go2 to do interesting things.
-
----
-
-## 🤖 What I'm Building Right Now
+<br>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### Unitree Go2 Robotics
-> **🔥 Current main project**
+### 01 — Unitree Go2 autonomy
+**Active · main focus**
 
-Working on autonomous behaviors for the **Unitree Go2** quadruped robot — combining SLAM, computer vision, and reinforcement learning to enable real-world deployment.
+Autonomous navigation for a 12-DoF quadruped. Custom RL locomotion policies trained in Isaac Sim, deployed on real hardware via ROS2 + Unitree SDK2.
 
-**Stack:** `ROS2` · `Python` · `PyTorch` · `Isaac Sim` · `Unitree SDK2`
+The hard part isn't simulation. It's the transfer.
 
-**Goals:**
-- Autonomous navigation in unstructured environments
-- Vision-based object tracking & following
-- Custom RL locomotion policies
-- Teleoperation with low-latency control
+<sub>`ROS2` · `PyTorch` · `Isaac Sim` · `Unitree SDK2` · `C++` · `Python`</sub>
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### Real-Time Voice Cloning
-> [`Real-Time-Voice-Cloning`](https://github.com/yoonjae26/Real-Time-Voice-Cloning)
+### 02 — Real-time voice cloning
+**[`Real-Time-Voice-Cloning`](https://github.com/yoonjae26/Real-Time-Voice-Cloning)**
 
-Neural voice synthesis cloning any voice from a 5-second audio sample, generating speech in real time.
+Neural voice synthesis. Five seconds of reference audio produces a usable clone with sub-second latency.
 
-**Stack:** `Python` · `PyTorch` · `Audio DSP`
+<sub>`Python` · `PyTorch` · `Audio DSP`</sub>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Face Estimation
-> [`face_estimation`](https://github.com/yoonjae26/face_estimation)
+### 03 — Face estimation pipeline
+**[`face_estimation`](https://github.com/yoonjae26/face_estimation)**
 
-Multi-modal face analysis: real-time age, gender, and emotion prediction.
+Multi-modal CV: age, gender, emotion. Runs 30 FPS on a CPU. No cloud.
 
-**Stack:** `OpenCV` · `TensorFlow` · `Computer Vision`
+<sub>`OpenCV` · `TensorFlow` · `CV`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — Coqui TTS
+**[`coqui-ai-TTS`](https://github.com/yoonjae26/coqui-ai-TTS)**
+
+Production-grade TTS engine. Multi-language, customisable. Maintained.
+
+<sub>`Python` · `DL` · `NLP`</sub>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-&nbsp;![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-&nbsp;![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**AI / ML**
-&nbsp;![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-&nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-&nbsp;![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-&nbsp;![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-&nbsp;![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Robotics**
-&nbsp;![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-&nbsp;![Gazebo](https://img.shields.io/badge/-Gazebo-FF6F00?style=flat-square&logo=gazebo&logoColor=white)
-&nbsp;![NVIDIA](https://img.shields.io/badge/-Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
-&nbsp;![Unitree](https://img.shields.io/badge/-Unitree%20SDK-1a1a1a?style=flat-square&logo=robotframework&logoColor=white)
-
-**Tools**
-&nbsp;![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-&nbsp;![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-&nbsp;![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-&nbsp;![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-&nbsp;![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
+<br>
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yoonjae26&show_icons=true&theme=transparent&hide_border=true&title_color=4a5568&text_color=718096&icon_color=2d3748&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjae26&layout=compact&theme=transparent&hide_border=true&title_color=4a5568&text_color=718096&langs_count=8" />
+<p align="center">
+  <img src="./assets/manifesto.svg" alt="A robot that can fall is a robot that can learn." width="100%" />
+</p>
 
-</div>
+<br>
+<br>
 
----
-
-## 💬 Drop Me a Line — Interactive Zone
-
-> **Want to leave a mark on my profile?** These are the friendliest ways to interact:
+## Stack
 
 <table>
 <tr>
-<td align="center" width="33%">
+  <td><sub><b>04 / STACK</b></sub></td>
+  <td></td>
+</tr>
+<tr>
+  <td><b>Languages</b></td>
+  <td>Python · C++ · TypeScript · JavaScript</td>
+</tr>
+<tr>
+  <td><b>Deep learning</b></td>
+  <td>PyTorch · TensorFlow · Hugging Face · scikit-learn</td>
+</tr>
+<tr>
+  <td><b>Computer vision</b></td>
+  <td>OpenCV · YOLO · MediaPipe</td>
+</tr>
+<tr>
+  <td><b>Robotics</b></td>
+  <td>ROS2 · Isaac Sim · Gazebo · Unitree SDK2</td>
+</tr>
+<tr>
+  <td><b>Infrastructure</b></td>
+  <td>Docker · Linux · CUDA · Git</td>
+</tr>
+<tr>
+  <td><b>Daily drivers</b></td>
+  <td>Neovim · tmux · Jupyter</td>
+</tr>
+</table>
 
-### 💡 Suggest a Project
-Got an idea you'd like to see me build?<br><br>
-[**→ Open an issue**](https://github.com/yoonjae26/yoonjae26/issues/new?title=Project+suggestion:+&labels=suggestion&body=Hi+Yoon+Jae,+I+think+you+should+build...)
+<br>
+<br>
+
+---
+
+<br>
+
+## Say hello
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+
+<sub>**01**</sub>
+
+### Leave a note
+A guestbook. Two lines is fine.
+
+[**Sign →**](https://github.com/yoonjae26/yoonjae26/discussions/new?category=guestbook)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### 👋 Sign My Guestbook
-Say hi! Leave a note for future visitors.<br><br>
-[**→ Sign guestbook**](https://github.com/yoonjae26/yoonjae26/discussions/new?category=guestbook)
+<sub>**02**</sub>
+
+### Suggest a project
+What should I build next?
+
+[**Drop an idea →**](https://github.com/yoonjae26/yoonjae26/issues/new?title=Project+idea:+&labels=suggestion&body=Hi+Yoon+Jae,+I+think+you+should+build...)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### 🤝 Collaborate
-Have a robotics or AI project?<br><br>
-[**→ Start a discussion**](https://github.com/yoonjae26/yoonjae26/discussions/new?category=ideas)
+<sub>**03**</sub>
+
+### Collaborate
+Robotics, vision, voice — let's compare notes.
+
+[**Open a thread →**](https://github.com/yoonjae26/yoonjae26/discussions/new?category=ideas)
 
 </td>
 </tr>
 </table>
 
+<br>
+
 <details>
-<summary><b>📬 Or just ask me anything — click to expand</b></summary>
+<summary><b>The hidden one — for the curious</b></summary>
 
 <br>
 
-Quick links for common questions:
+There is a key somewhere on this page. It is a number.
 
-- [**"How do I get started with Unitree Go2?"**](https://github.com/yoonjae26/yoonjae26/discussions/new?category=q-a&title=Getting+started+with+Unitree+Go2)
-- [**"Can you mentor / review my project?"**](https://github.com/yoonjae26/yoonjae26/discussions/new?category=q-a&title=Mentoring+request)
-- [**"Available for freelance / consulting?"**](mailto:nguyenhoanglinh260801@gmail.com?subject=Consulting%20Inquiry)
-- [**Report a bug in one of my repos**](https://github.com/yoonjae26?tab=repositories)
+Find it, then [open this issue](https://github.com/yoonjae26/yoonjae26/issues/new?title=Found+it&labels=easter-egg&body=The+number+is:+) with the answer. The first ten get added to the **Hall of the Curious**.
+
+<sub>Hint: Look at the banner. Read the technical drawing carefully.</sub>
 
 </details>
 
 <details>
-<summary><b>🎯 What I'm open to</b></summary>
+<summary><b>Other ways to reach me</b></summary>
 
 <br>
 
-- ✅ **Collaboration** on robotics, computer vision, or voice AI projects
-- ✅ **Open-source contributions** — feel free to PR my repos
-- ✅ **Research partnerships** in academic or industry settings
-- ✅ **Mentoring** junior devs getting into AI/robotics
-- 🚫 Not currently looking for full-time roles
+- [Get started with Unitree Go2 — where do I begin?](https://github.com/yoonjae26/yoonjae26/discussions/new?category=q-a&title=Getting+started+with+Unitree+Go2)
+- [Mentoring request](https://github.com/yoonjae26/yoonjae26/discussions/new?category=q-a&title=Mentoring+request)
+- [Consulting inquiry](mailto:nguyenhoanglinh260801@gmail.com?subject=Consulting%20Inquiry)
+- [Personal site](https://yoonjae26.github.io)
 
 </details>
 
----
-
-## 🗺️ Roadmap 2025
-
-- [x] Set up Unitree Go2 development environment
-- [ ] Deploy custom RL locomotion policy on Go2
-- [ ] Publish blog series on quadruped robotics
-- [ ] Contribute to a major open-source robotics project
-- [ ] Open-source a small AI toolkit
+<br>
+<br>
 
 ---
 
-<div align="center">
+<br>
 
-*Thanks for stopping by! ⭐ Star a repo if something caught your eye.*
+## Archive
 
-</div>
+<sub>**05 / RECENT ACTIVITY**</sub>
+
+<!-- LATEST_POSTS:START -->
+*Recent commits will appear here once the workflow runs for the first time.*
+<!-- LATEST_POSTS:END -->
+
+<br>
+
+<details>
+<summary><b>The numbers — for those who like numbers</b></summary>
+
+<br>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yoonjae26&show_icons=true&theme=graywhite&hide_border=true&bg_color=f7f5f0&title_color=1a1a1a&text_color=4a4a4a&icon_color=2c2c2c&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjae26&layout=compact&theme=graywhite&hide_border=true&bg_color=f7f5f0&title_color=1a1a1a&text_color=4a4a4a&langs_count=8" />
+</p>
+
+</details>
+
+<br>
+<br>
+
+---
+
+<br>
+
+<p align="center">
+  <sub>
+    <i>余白を残す</i> &nbsp;·&nbsp; Leave space in the margin.
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://yoonjae26.github.io">yoonjae26.github.io</a> &nbsp;·&nbsp;
+    Jeju, KR
+  </sub>
+</p>
+
+<br>

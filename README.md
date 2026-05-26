@@ -1,382 +1,191 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00f5ff,20:fc00ff,40:fffc00,60:ff0000,80:ff8c00,100:ff0080&height=150&section=header&text=◢◤%20YOON%20JAE%20◥◣&fontSize=60&fontColor=000000&animation=blinking&fontAlignY=55&desc=◢◤%20AI%20NEURAL%20ARCHITECT%20◥◣&descAlignY=80&descAlign=50&descSize=20" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓;●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●;⚡+NEURAL+NETWORK+SPECIALIST+⚡;⚡+DEEP+LEARNING+ARCHITECT+⚡;⚡+AI+RESEARCH+ENGINEER+⚡;⚡+COMPUTER+VISION+EXPERT+⚡;⚡+VOICE+SYNTHESIS+PIONEER+⚡;▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓;●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●" alt="Typing SVG" />
-</div>
+# Hi, I'm Yoon Jae 👋
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+### AI Engineer · Robotics · Computer Vision
 
-<div align="center">
+*Building intelligent systems where machines learn to see, speak, and move.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yoonjae26&label=◢◤%20NEURAL%20VISITS&color=00f5ff&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/yoonjae26?label=◢◤%20FOLLOWERS&color=fc00ff&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/yoonjae26?label=◢◤%20STARS&color=fffc00&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logo=githubpages&logoColor=white)](https://yoonjae26.github.io)
+[![Email](https://img.shields.io/badge/Email-4a5568?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyenhoanglinh260801@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2d3748?style=flat-square&logo=github&logoColor=white)](https://github.com/yoonjae26)
+[![Visitors](https://komarev.com/ghpvc/?username=yoonjae26&label=Visitors&color=4a5568&style=flat-square)](https://github.com/yoonjae26)
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,17,21,25,29,33&height=3&section=divider" />
-</div>
+---
 
-## <div align="center">⚡ NEURAL NETWORK PROFILE ⚡</div>
+## About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoonjae26&repo=yoonjae26&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=79ff97&icon_color=fc00ff" />
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-```python
-class NeuralArchitect:
-    def __init__(self):
-        self.identity = "YOON JAE"
-        self.designation = "AI NEURAL ARCHITECT"
-        self.location = "JEJU CYBERNETIC HUB"
-        self.institution = "JEJU HALLA UNIVERSITY"
-        self.neural_interfaces = [
-            "PYTHON_CORE_MATRIX",
-            "JAVASCRIPT_QUANTUM_LAYER", 
-            "KOREAN_NATURAL_LANGUAGE",
-            "ENGLISH_GLOBAL_PROTOCOL"
-        ]
-        
-    def neural_specialization(self):
-        return {
-            "DEEP_LEARNING": "ADVANCED_ARCHITECTURES",
-            "COMPUTER_VISION": "REAL_TIME_PROCESSING", 
-            "VOICE_SYNTHESIS": "NEURAL_CLONING",
-            "NLP_SYSTEMS": "LARGE_LANGUAGE_MODELS"
-        }
-        
-    def quantum_routine(self):
-        return "RESEARCH >> CODE >> TRAIN >> DEPLOY >> EVOLVE"
+```yaml
+name:       Yoon Jae
+role:       AI Engineer & Robotics Researcher
+location:   Jeju, South Korea
+education:  Jeju Halla University
+focus:      Quadruped robotics · Voice synthesis · Computer vision
+learning:   Reinforcement learning for legged locomotion
 ```
 
-</td>
-<td width="50%">
+I work at the intersection of **AI** and **physical systems** — teaching neural networks to perceive the world and robots to navigate it. Currently focused on getting a Unitree Go2 to do interesting things.
 
-```javascript
-const NEURAL_OBJECTIVES = {
-    CURRENT_FOCUS: [
-        "► QUANTUM_AI_RESEARCH",
-        "► NEURAL_VOICE_SYNTHESIS", 
-        "► CYBERNETIC_VISION_SYSTEMS",
-        "► DEEP_LEARNING_ARCHITECTURES"
-    ],
-    
-    QUANTUM_MISSIONS_2025: [
-        "◢◤ LAUNCH_AI_NEURAL_TOOLKIT",
-        "◢◤ PUBLISH_VOICE_TECH_RESEARCH",
-        "◢◤ CONTRIBUTE_MAJOR_OPENSOURCE",
-        "◢◤ BUILD_PRODUCTION_AI_PLATFORM"
-    ],
-    
-    NEURAL_STATUS: "ACTIVE_DEVELOPMENT",
-    QUANTUM_LEVEL: "ADVANCED_RESEARCHER",
-    CYBERNETIC_MODE: "CONTINUOUS_LEARNING"
-};
-```
+---
 
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,17,21,25,29,33&height=3&section=divider" />
-</div>
-
-## <div align="center">⚡ QUANTUM TECHNOLOGY MATRIX ⚡</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:fc00ff,100:fffc00&height=2&section=divider" />
-</div>
-
-<div align="center">
-
-### ◢◤ NEURAL PROGRAMMING LANGUAGES ◥◣
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=fffc00&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=fc00ff)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=00f5ff&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ff0080&labelColor=000000)
-
-### ◢◤ AI NEURAL FRAMEWORKS ◥◣
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=000000&labelColor=00f5ff)
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=000000&labelColor=fc00ff)
-![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=fffc00&labelColor=000000)
-![OpenCV](https://img.shields.io/badge/OPENCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=00f5ff&labelColor=000000)
-
-### ◢◤ QUANTUM DATA PROCESSING ◥◣
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=fc00ff&labelColor=000000)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=fffc00&labelColor=000000)
-![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=000000&labelColor=00f5ff)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557c?style=for-the-badge&logo=python&logoColor=fc00ff&labelColor=000000)
-
-### ◢◤ CYBERNETIC DEVELOPMENT TOOLS ◥◣
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=000000&labelColor=fffc00)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=00f5ff&labelColor=000000)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=000000&labelColor=fc00ff)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=fffc00&labelColor=000000)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,17,21,25,29,33&height=3&section=divider" />
-</div>
-
-## <div align="center">⚡ NEURAL NETWORK PROJECTS ⚡</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fc00ff,50:00f5ff,100:fffc00&height=2&section=divider" />
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### ◢◤ QUANTUM VOICE SYNTHESIS ◥◣
-**NEURAL_LINK**: [Real-Time-Voice-Cloning](https://github.com/yoonjae26/Real-Time-Voice-Cloning)
-
-**QUANTUM_DESCRIPTION**: Advanced neural voice synthesis system capable of cloning any voice pattern with 5-second audio input, generating real-time speech through quantum processing.
-
-**CYBERNETIC_FEATURES**:
-- ⚡ Real-time quantum voice processing
-- ⚡ 5-second neural voice cloning
-- ⚡ High-fidelity speech synthesis
-- ⚡ Production-ready architecture
-
-**TECH_MATRIX**: `PYTHON` `DEEP_LEARNING` `AUDIO_PROCESSING` `NEURAL_NETWORKS`
-
-**QUANTUM_STATUS**: **ACTIVE_DEVELOPMENT**
-
-</td>
-<td width="50%">
-
-### ◢◤ CYBERNETIC FACE ANALYTICS ◥◣
-**NEURAL_LINK**: [face_estimation](https://github.com/yoonjae26/face_estimation)
-
-**QUANTUM_DESCRIPTION**: Advanced multi-modal face analysis system providing real-time detection and quantum predictions for age, gender, and emotional states through neural processing.
-
-**CYBERNETIC_FEATURES**:
-- ⚡ Multi-modal neural analysis
-- ⚡ Real-time quantum processing
-- ⚡ Custom trained AI models
-- ⚡ High-precision predictions
-
-**TECH_MATRIX**: `PYTHON` `OPENCV` `TENSORFLOW` `COMPUTER_VISION`
-
-**QUANTUM_STATUS**: **ACTIVE_DEVELOPMENT**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ◢◤ NEURAL TTS ENGINE ◥◣
-**NEURAL_LINK**: [coqui-ai-TTS](https://github.com/yoonjae26/coqui-ai-TTS)
-
-**QUANTUM_DESCRIPTION**: Production-grade Text-to-Speech quantum system built on advanced neural architectures, battle-tested in research and production environments.
-
-**CYBERNETIC_FEATURES**:
-- ⚡ Enterprise-grade performance
-- ⚡ Multi-language neural support
-- ⚡ Customizable voice models
-- ⚡ Research-backed implementation
-
-**TECH_MATRIX**: `PYTHON` `DEEP_LEARNING` `COQUI_AI` `NLP`
-
-**QUANTUM_STATUS**: **PRODUCTION_READY**
-
-</td>
-<td width="50%">
-
-### ◢◤ QUANTUM NLP RESEARCH ◥◣
-**NEURAL_LINK**: [intronlp-2024](https://github.com/yoonjae26/intronlp-2024)
-
-**QUANTUM_DESCRIPTION**: Comprehensive exploration of Natural Language Processing and Large Language Models, including cutting-edge quantum research and neural implementations.
-
-**CYBERNETIC_FEATURES**:
-- ⚡ LLM quantum experimentation
-- ⚡ NLP technique implementations
-- ⚡ Research documentation
-- ⚡ Educational neural resources
-
-**TECH_MATRIX**: `PYTHON` `TRANSFORMERS` `JUPYTER` `NLP_LIBRARIES`
-
-**QUANTUM_STATUS**: **RESEARCH_ACTIVE**
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,17,21,25,29,33&height=3&section=divider" />
-</div>
-
-## <div align="center">⚡ QUANTUM GITHUB ANALYTICS ⚡</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fffc00,50:fc00ff,100:00f5ff&height=2&section=divider" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoonjae26&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=79ff97&icon_color=fc00ff&ring_color=fffc00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjae26&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=79ff97"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoonjae26&theme=synthwave&hide_border=true&background=0d1117&stroke=00f5ff&ring=fc00ff&fire=fffc00&currStreakLabel=79ff97&sideLabels=79ff97&currStreakNum=00f5ff&sideNums=fc00ff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoonjae26&custom_title=◢◤%20NEURAL%20ACTIVITY%20MATRIX%20◥◣&bg_color=0d1117&color=00f5ff&line=fc00ff&point=fffc00&area=true&hide_border=true&area_color=fc00ff" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,17,21,25,29,33&height=3&section=divider" />
-</div>
-
-## <div align="center">⚡ QUANTUM RESEARCH MATRIX ⚡</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fc00ff,50:fffc00,100:00f5ff&height=2&section=divider" />
-</div>
-
-```mermaid
-graph TD
-    A[QUANTUM AI RESEARCH] --> B[NEURAL VOICE TECH]
-    A --> C[CYBERNETIC VISION]
-    A --> D[QUANTUM NLP SYSTEMS]
-    B --> E[REAL-TIME PROCESSING]
-    C --> F[MULTI-MODAL ANALYSIS]
-    D --> G[LARGE LANGUAGE MODELS]
-    E --> H[PRODUCTION SYSTEMS]
-    F --> H
-    G --> H
-    
-    style A fill:#4a90e2,stroke:#00f5ff,stroke-width:3px,color:#ffffff
-    style B fill:#00f5ff,stroke:#4a90e2,stroke-width:3px,color:#000000
-    style C fill:#fffc00,stroke:#4a90e2,stroke-width:3px,color:#000000
-    style D fill:#00f5ff,stroke:#fffc00,stroke-width:3px,color:#000000
-    style H fill:#7b68ee,stroke:#00f5ff,stroke-width:3px,color:#ffffff
-```
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### ◢◤ CURRENT NEURAL RESEARCH ◥◣
-- **⚡ QUANTUM AI ARCHITECTURES**: Exploring revolutionary neural network designs for next-generation AI applications
-- **⚡ VOICE SYNTHESIS EVOLUTION**: Advancing real-time speech generation and quantum voice cloning technologies
-- **⚡ CYBERNETIC VISION SYSTEMS**: Developing practical solutions for real-world computer vision problems
-- **⚡ NEURAL LANGUAGE PROCESSING**: Building intelligent quantum language processing systems
-
-</td>
-<td width="50%">
-
-### ◢◤ QUANTUM ROADMAP 2025 ◥◣
-- **Q1**: Launch comprehensive quantum AI development toolkit
-- **Q2**: Publish breakthrough research on voice technology advancements
-- **Q3**: Contribute to major open-source neural AI projects
-- **Q4**: Build production-ready quantum AI SaaS platform
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,17,21,25,29,33&height=3&section=divider" />
-</div>
-
-## <div align="center">⚡ QUANTUM NEURAL CONNECTIONS ⚡</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:fc00ff,100:fffc00&height=2&section=divider" />
-</div>
-
-<div align="center">
-
-### ◢◤ READY FOR QUANTUM COLLABORATION? ◥◣
+## 🤖 What I'm Building Right Now
 
 <table>
 <tr>
-<td align="center">
-<a href="https://www.facebook.com/profile.php?id=100033933143471">
-<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=fc00ff" alt="Facebook"/>
-</a>
+<td width="50%">
+
+### Unitree Go2 Robotics
+> **🔥 Current main project**
+
+Working on autonomous behaviors for the **Unitree Go2** quadruped robot — combining SLAM, computer vision, and reinforcement learning to enable real-world deployment.
+
+**Stack:** `ROS2` · `Python` · `PyTorch` · `Isaac Sim` · `Unitree SDK2`
+
+**Goals:**
+- Autonomous navigation in unstructured environments
+- Vision-based object tracking & following
+- Custom RL locomotion policies
+- Teleoperation with low-latency control
+
 </td>
-<td align="center">
-<a href="mailto:nguyenhoanglinh260801@gmail.com">
-<img src="https://img.shields.io/badge/NEURAL_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=00f5ff" alt="Email"/>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/yoonjae26">
-<img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=fffc00&labelColor=000000" alt="GitHub"/>
-</a>
-</td>
-<td align="center">
-<a href="https://yoonjae26.github.io">
-<img src="https://img.shields.io/badge/QUANTUM_PORTFOLIO-FF5722?style=for-the-badge&logo=todoist&logoColor=000000&labelColor=fc00ff" alt="Portfolio"/>
-</a>
+<td width="50%">
+
+### Real-Time Voice Cloning
+> [`Real-Time-Voice-Cloning`](https://github.com/yoonjae26/Real-Time-Voice-Cloning)
+
+Neural voice synthesis cloning any voice from a 5-second audio sample, generating speech in real time.
+
+**Stack:** `Python` · `PyTorch` · `Audio DSP`
+
+---
+
+### Face Estimation
+> [`face_estimation`](https://github.com/yoonjae26/face_estimation)
+
+Multi-modal face analysis: real-time age, gender, and emotion prediction.
+
+**Stack:** `OpenCV` · `TensorFlow` · `Computer Vision`
+
 </td>
 </tr>
 </table>
 
-</div>
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+&nbsp;![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+&nbsp;![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI / ML**
+&nbsp;![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+&nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+&nbsp;![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+&nbsp;![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+&nbsp;![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Robotics**
+&nbsp;![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+&nbsp;![Gazebo](https://img.shields.io/badge/-Gazebo-FF6F00?style=flat-square&logo=gazebo&logoColor=white)
+&nbsp;![NVIDIA](https://img.shields.io/badge/-Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+&nbsp;![Unitree](https://img.shields.io/badge/-Unitree%20SDK-1a1a1a?style=flat-square&logo=robotframework&logoColor=white)
+
+**Tools**
+&nbsp;![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+&nbsp;![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+&nbsp;![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+&nbsp;![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+&nbsp;![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yoonjae26&show_icons=true&theme=transparent&hide_border=true&title_color=4a5568&text_color=718096&icon_color=2d3748&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjae26&layout=compact&theme=transparent&hide_border=true&title_color=4a5568&text_color=718096&langs_count=8" />
+
+</div>
+
+---
+
+## 💬 Drop Me a Line — Interactive Zone
+
+> **Want to leave a mark on my profile?** These are the friendliest ways to interact:
+
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
-### ◢◤ QUANTUM COLLABORATION PROTOCOLS ◥◣
-- **⚡ AI/ML QUANTUM PROJECTS**: Building revolutionary solutions together
-- **⚡ NEURAL RESEARCH PARTNERSHIPS**: Advancing artificial intelligence frontiers
-- **⚡ OPEN SOURCE CONTRIBUTIONS**: Contributing to global AI quantum community
-- **⚡ KNOWLEDGE NEURAL SHARING**: Mentoring and learning from fellow quantum developers
+### 💡 Suggest a Project
+Got an idea you'd like to see me build?<br><br>
+[**→ Open an issue**](https://github.com/yoonjae26/yoonjae26/issues/new?title=Project+suggestion:+&labels=suggestion&body=Hi+Yoon+Jae,+I+think+you+should+build...)
 
 </td>
-<td width="50%">
+<td align="center" width="33%">
 
-### ◢◤ QUANTUM CONSULTING OPPORTUNITIES ◥◣
-- **⚡ ENTERPRISE AI SOLUTIONS**: Applying quantum AI expertise to real-world problems
-- **⚡ NEURAL ARCHITECTURE CONSULTING**: Designing next-generation AI systems
-- **⚡ QUANTUM RESEARCH COLLABORATION**: Joint research and development projects
-- **⚡ CYBERNETIC TRAINING PROGRAMS**: Advanced AI education and workshops
+### 👋 Sign My Guestbook
+Say hi! Leave a note for future visitors.<br><br>
+[**→ Sign guestbook**](https://github.com/yoonjae26/yoonjae26/discussions/new?category=guestbook)
+
+</td>
+<td align="center" width="33%">
+
+### 🤝 Collaborate
+Have a robotics or AI project?<br><br>
+[**→ Start a discussion**](https://github.com/yoonjae26/yoonjae26/discussions/new?category=ideas)
 
 </td>
 </tr>
 </table>
-</div>
+
+<details>
+<summary><b>📬 Or just ask me anything — click to expand</b></summary>
+
+<br>
+
+Quick links for common questions:
+
+- [**"How do I get started with Unitree Go2?"**](https://github.com/yoonjae26/yoonjae26/discussions/new?category=q-a&title=Getting+started+with+Unitree+Go2)
+- [**"Can you mentor / review my project?"**](https://github.com/yoonjae26/yoonjae26/discussions/new?category=q-a&title=Mentoring+request)
+- [**"Available for freelance / consulting?"**](mailto:nguyenhoanglinh260801@gmail.com?subject=Consulting%20Inquiry)
+- [**Report a bug in one of my repos**](https://github.com/yoonjae26?tab=repositories)
+
+</details>
+
+<details>
+<summary><b>🎯 What I'm open to</b></summary>
+
+<br>
+
+- ✅ **Collaboration** on robotics, computer vision, or voice AI projects
+- ✅ **Open-source contributions** — feel free to PR my repos
+- ✅ **Research partnerships** in academic or industry settings
+- ✅ **Mentoring** junior devs getting into AI/robotics
+- 🚫 Not currently looking for full-time roles
+
+</details>
+
+---
+
+## 🗺️ Roadmap 2025
+
+- [x] Set up Unitree Go2 development environment
+- [ ] Deploy custom RL locomotion policy on Go2
+- [ ] Publish blog series on quadruped robotics
+- [ ] Contribute to a major open-source robotics project
+- [ ] Open-source a small AI toolkit
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,17,21,25,29,33&height=3&section=divider" />
-</div>
 
-<div align="center">
-  
-### ◢◤ BUILDING THE QUANTUM FUTURE, ONE NEURAL NETWORK AT A TIME ◥◣
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,20:fc00ff,40:fffc00,60:ff0000,80:ff8c00,100:ff0080&height=120&section=footer&text=◢◤%20QUANTUM%20ACTIVATED%20◥◣&fontSize=30&fontColor=000000&animation=blinking&fontAlignY=75" />
-
-</div>
-
-<div align="center">
-  
-**◢◤ FROM [YOONJAE26](https://github.com/yoonjae26) | QUANTUM NEURAL ARCHITECT ◥◣**
-
-![Snake animation](https://github.com/yoonjae26/yoonjae26/blob/output/github-contribution-grid-snake.svg)
+*Thanks for stopping by! ⭐ Star a repo if something caught your eye.*
 
 </div>

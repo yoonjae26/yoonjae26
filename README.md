@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-2d3748?style=flat-square&logo=github&logoColor=white)](https://github.com/yoonjae26)
 [![Visitors](https://komarev.com/ghpvc/?username=yoonjae26&label=Visitors&color=4a5568&style=flat-square)](https://github.com/yoonjae26)
 
-</div>
+---
 
 ---
 
@@ -34,7 +34,7 @@ I work at the intersection of **AI** and **physical systems** — teaching neura
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
 ### Unitree Go2 Robotics
 > **🔥 Current main project**
@@ -50,7 +50,7 @@ Working on autonomous behaviors for the **Unitree Go2** quadruped robot — comb
 - Teleoperation with low-latency control
 
 </td>
-<td width="50%">
+<td align="center" width="33%">
 
 ### Real-Time Voice Cloning
 > [`Real-Time-Voice-Cloning`](https://github.com/yoonjae26/Real-Time-Voice-Cloning)
@@ -106,7 +106,7 @@ Multi-modal face analysis: real-time age, gender, and emotion prediction.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<br>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=yoonjae26&show_icons=true&theme=transparent&hide_border=true&title_color=4a5568&text_color=718096&icon_color=2d3748&include_all_commits=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjae26&layout=compact&theme=transparent&hide_border=true&title_color=4a5568&text_color=718096&langs_count=8" />

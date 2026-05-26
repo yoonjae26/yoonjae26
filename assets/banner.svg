@@ -1,41 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 480" width="1400" height="480" role="img" aria-label="Yoon Jae — Robotics & AI Engineer">
-  <defs>
-    <style>
-      .serif { font-family: 'Cormorant Garamond', 'Times New Roman', serif; }
-      .sans  { font-family: 'Inter', -apple-system, 'Helvetica Neue', sans-serif; }
-      .mono  { font-family: 'JetBrains Mono', 'IBM Plex Mono', monospace; }
-    </style>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 480" width="1400" height="480" role="img" aria-label="Yoon Jae — Robotics and AI Engineer">
 
-  <!-- Pure off-white paper -->
+  <!-- Off-white paper -->
   <rect width="1400" height="480" fill="#f7f5f0"/>
 
   <!-- Top eyebrow markers -->
   <line x1="100" y1="60" x2="135" y2="60" stroke="#1a1a1a" stroke-width="1"/>
-  <text x="145" y="64" class="mono" font-size="11" fill="#1a1a1a" letter-spacing="3">01 / PROFILE</text>
+  <text x="145" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#1a1a1a" letter-spacing="3">01 / PROFILE</text>
 
   <line x1="1265" y1="60" x2="1300" y2="60" stroke="#1a1a1a" stroke-width="1"/>
-  <text x="1255" y="64" class="mono" font-size="11" fill="#1a1a1a" letter-spacing="3" text-anchor="end">JEJU · 濟州</text>
+  <text x="1255" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#1a1a1a" letter-spacing="3" text-anchor="end">JEJU</text>
 
   <!-- Main name -->
-  <text x="100" y="195" class="serif" font-size="120" font-weight="300" fill="#1a1a1a" letter-spacing="-3">
-    Yoon Jae
-  </text>
+  <text x="100" y="195" font-family="Georgia, 'Times New Roman', serif" font-size="120" font-weight="300" font-style="italic" fill="#1a1a1a" letter-spacing="-3">Yoon Jae</text>
 
-  <!-- Korean name in subtle position -->
-  <text x="100" y="230" class="serif" font-size="22" font-weight="300" fill="#888" letter-spacing="8">윤재 · ユンジェ</text>
+  <!-- Korean / Japanese reading -->
+  <text x="100" y="230" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="300" fill="#888888" letter-spacing="8">YOON JAE</text>
 
   <!-- Thin separator -->
   <line x1="100" y1="270" x2="160" y2="270" stroke="#1a1a1a" stroke-width="1"/>
 
   <!-- Subtitle two-liner -->
-  <text x="100" y="305" class="sans" font-size="16" fill="#1a1a1a" font-weight="400" letter-spacing="1">Robotics &amp; AI engineer.</text>
-  <text x="100" y="328" class="sans" font-size="16" fill="#666" font-weight="300" letter-spacing="1">Building autonomy for legged robots.</text>
+  <text x="100" y="305" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" fill="#1a1a1a" font-weight="400" letter-spacing="1">Robotics and AI engineer.</text>
+  <text x="100" y="328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" fill="#666666" font-weight="300" letter-spacing="1">Building autonomy for legged robots.</text>
 
   <!-- Bottom metadata strip -->
   <line x1="100" y1="395" x2="1300" y2="395" stroke="#1a1a1a" stroke-width="0.5"/>
 
-  <g class="mono" font-size="10" fill="#666" letter-spacing="2">
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#666666" letter-spacing="2">
     <text x="100" y="420">ROLE</text>
     <text x="100" y="438" fill="#1a1a1a" font-size="12">Engineer</text>
 
@@ -43,37 +34,29 @@
     <text x="260" y="438" fill="#1a1a1a" font-size="12">Unitree Go2</text>
 
     <text x="450" y="420">STACK</text>
-    <text x="450" y="438" fill="#1a1a1a" font-size="12">ROS2 · PyTorch · Isaac Sim</text>
+    <text x="450" y="438" fill="#1a1a1a" font-size="12">ROS2 / PyTorch / Isaac Sim</text>
 
     <text x="800" y="420">EST.</text>
     <text x="800" y="438" fill="#1a1a1a" font-size="12">2022</text>
 
     <text x="920" y="420">STATUS</text>
-    <text x="920" y="438" fill="#1a1a1a" font-size="12">● Active</text>
+    <text x="920" y="438" fill="#1a1a1a" font-size="12">Active</text>
   </g>
-
-  <!-- Right side: Hanko stamp + Go2 technical drawing -->
 
   <!-- Hanko (red seal stamp) -->
   <g transform="translate(1220, 175)">
     <rect x="0" y="0" width="80" height="80" fill="none" stroke="#c8202e" stroke-width="3"/>
-    <text x="40" y="36" class="serif" font-size="22" fill="#c8202e" text-anchor="middle" font-weight="500">尹</text>
-    <text x="40" y="62" class="serif" font-size="22" fill="#c8202e" text-anchor="middle" font-weight="500">在</text>
+    <text x="40" y="36" font-family="Georgia, serif" font-size="22" fill="#c8202e" text-anchor="middle" font-weight="500">YJ</text>
+    <text x="40" y="62" font-family="Georgia, serif" font-size="10" fill="#c8202e" text-anchor="middle" font-weight="500" letter-spacing="2">2025</text>
   </g>
 
-  <!-- Go2 quadruped technical drawing - properly proportioned with 12 joints labeled -->
+  <!-- Go2 quadruped technical drawing -->
   <g transform="translate(820, 120)" stroke="#1a1a1a" fill="none">
 
-    <!-- Reference grid (very subtle) -->
-    <g stroke="#e0ddd5" stroke-width="0.3">
-      <line x1="0" y1="0" x2="380" y2="0"/>
-      <line x1="0" y1="200" x2="380" y2="200"/>
-    </g>
-
     <!-- Spec callouts (top) -->
-    <text x="0" y="-8" class="mono" font-size="9" fill="#999" letter-spacing="2">FIG. 01 — QUADRUPED REFERENCE</text>
+    <text x="0" y="-8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#999999" letter-spacing="2" stroke="none">FIG. 01 — QUADRUPED REFERENCE</text>
 
-    <!-- Main body chassis (longer rectangle) -->
+    <!-- Main body chassis -->
     <rect x="80" y="50" width="180" height="38" stroke-width="1.2" rx="2"/>
 
     <!-- Inner body detail lines -->
@@ -102,21 +85,14 @@
     <!-- Tail/handle on rear -->
     <rect x="65" y="60" width="18" height="18" stroke-width="1" rx="1"/>
 
-    <!-- ============ LEGS (12 joints total: 4 legs × 3 joints = hip + thigh + calf) ============ -->
-
-    <!-- Front-Right leg (closer to viewer side, drawn solid) -->
-    <!-- Hip joint -->
+    <!-- Front-Right leg (solid) -->
     <circle cx="225" cy="88" r="4" fill="#f7f5f0" stroke-width="1.2"/>
-    <!-- Thigh -->
     <line x1="225" y1="91" x2="220" y2="125" stroke-width="1.4"/>
-    <!-- Knee joint -->
     <circle cx="220" cy="127" r="3.5" fill="#f7f5f0" stroke-width="1.2"/>
-    <!-- Calf -->
     <line x1="222" y1="129" x2="232" y2="170" stroke-width="1.4"/>
-    <!-- Foot pad -->
     <circle cx="233" cy="172" r="2.5" fill="#1a1a1a"/>
 
-    <!-- Front-Left leg (back, drawn thinner/dashed) -->
+    <!-- Front-Left leg (faded) -->
     <circle cx="208" cy="88" r="3.5" fill="#f7f5f0" stroke-width="1" opacity="0.6"/>
     <line x1="208" y1="91" x2="205" y2="125" stroke-width="1" opacity="0.6"/>
     <circle cx="205" cy="127" r="3" fill="#f7f5f0" stroke-width="1" opacity="0.6"/>
@@ -130,7 +106,7 @@
     <line x1="112" y1="129" x2="122" y2="170" stroke-width="1.4"/>
     <circle cx="123" cy="172" r="2.5" fill="#1a1a1a"/>
 
-    <!-- Rear-Left leg -->
+    <!-- Rear-Left leg (faded) -->
     <circle cx="98" cy="88" r="3.5" fill="#f7f5f0" stroke-width="1" opacity="0.6"/>
     <line x1="98" y1="91" x2="95" y2="125" stroke-width="1" opacity="0.6"/>
     <circle cx="95" cy="127" r="3" fill="#f7f5f0" stroke-width="1" opacity="0.6"/>
@@ -140,21 +116,19 @@
     <!-- Ground line -->
     <line x1="60" y1="180" x2="280" y2="180" stroke="#1a1a1a" stroke-width="0.5" stroke-dasharray="3 2"/>
 
-    <!-- Technical callouts/labels -->
-
     <!-- Callout: 12 joints -->
     <line x1="220" y1="127" x2="270" y2="115" stroke-width="0.4"/>
-    <text x="273" y="113" class="mono" font-size="9" fill="#1a1a1a" letter-spacing="1">12 JOINTS</text>
-    <text x="273" y="125" class="mono" font-size="8" fill="#888">3 × 4 LEGS</text>
+    <text x="273" y="113" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#1a1a1a" letter-spacing="1" stroke="none">12 JOINTS</text>
+    <text x="273" y="125" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="8" fill="#888888" stroke="none">3 x 4 LEGS</text>
 
     <!-- Callout: sensor head -->
     <line x1="290" y1="71" x2="335" y2="50" stroke-width="0.4"/>
-    <text x="338" y="49" class="mono" font-size="9" fill="#1a1a1a" letter-spacing="1">RGB-D · LIDAR</text>
+    <text x="338" y="49" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#1a1a1a" letter-spacing="1" stroke="none">RGB-D / LIDAR</text>
 
     <!-- Dimension line at bottom -->
     <line x1="65" y1="195" x2="305" y2="195" stroke-width="0.4"/>
     <line x1="65" y1="192" x2="65" y2="198" stroke-width="0.4"/>
     <line x1="305" y1="192" x2="305" y2="198" stroke-width="0.4"/>
-    <text x="185" y="208" class="mono" font-size="9" fill="#666" text-anchor="middle">700mm</text>
+    <text x="185" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#666666" text-anchor="middle" stroke="none">700mm</text>
   </g>
 </svg>

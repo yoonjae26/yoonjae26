@@ -220,7 +220,7 @@ Find it, then [open this issue](https://github.com/yoonjae26/yoonjae26/issues/ne
 <sub>**05 / RECENT ACTIVITY**</sub>
 
 <!-- LATEST_POSTS:START -->
-- 📝  **pushed** &nbsp;·&nbsp; [yoonjae26](https://github.com/yoonjae26/yoonjae26) &nbsp;·&nbsp; <sub>1d ago</sub>
+- 📝  **pushed** &nbsp;·&nbsp; [yoonjae26](https://github.com/yoonjae26/yoonjae26) &nbsp;·&nbsp; <sub>2d ago</sub>
 <!-- LATEST_POSTS:END -->
 
 <br>

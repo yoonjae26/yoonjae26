@@ -220,11 +220,11 @@ Find it, then [open this issue](https://github.com/yoonjae26/yoonjae26/issues/ne
 <sub>**05 / RECENT ACTIVITY**</sub>
 
 <!-- LATEST_POSTS:START -->
-- 📝  **pushed** &nbsp;·&nbsp; [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>10d ago</sub>
-- 🔀  merged PR &nbsp;·&nbsp; [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>10d ago</sub>
-- 🔀  opened PR &nbsp;·&nbsp; [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>10d ago</sub>
-- 🌿  New branch `main` in [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>10d ago</sub>
-- 📝  **pushed** &nbsp;·&nbsp; [yoonjae26](https://github.com/yoonjae26/yoonjae26) &nbsp;·&nbsp; <sub>24d ago</sub>
+- 📝  **pushed** &nbsp;·&nbsp; [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>11d ago</sub>
+- 🔀  merged PR &nbsp;·&nbsp; [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>11d ago</sub>
+- 🔀  opened PR &nbsp;·&nbsp; [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>11d ago</sub>
+- 🌿  New branch `main` in [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>11d ago</sub>
+- 📝  **pushed** &nbsp;·&nbsp; [yoonjae26](https://github.com/yoonjae26/yoonjae26) &nbsp;·&nbsp; <sub>25d ago</sub>
 <!-- LATEST_POSTS:END -->
 
 <br>

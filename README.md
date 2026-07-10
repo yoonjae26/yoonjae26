@@ -220,10 +220,7 @@ Find it, then [open this issue](https://github.com/yoonjae26/yoonjae26/issues/ne
 <sub>**05 / RECENT ACTIVITY**</sub>
 
 <!-- LATEST_POSTS:START -->
-- 📝  **pushed** &nbsp;·&nbsp; [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>29d ago</sub>
-- 🔀  merged PR &nbsp;·&nbsp; [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>29d ago</sub>
-- 🔀  opened PR &nbsp;·&nbsp; [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>29d ago</sub>
-- 🌿  New branch `main` in [DDPM-U-Net-From-Noise-to-Latent-Diffusion](https://github.com/yoonjae26/DDPM-U-Net-From-Noise-to-Latent-Diffusion) &nbsp;·&nbsp; <sub>29d ago</sub>
+*Nothing recent on the wire — back at the workbench.*
 <!-- LATEST_POSTS:END -->
 
 <br>
